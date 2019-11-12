@@ -1,0 +1,98 @@
+* {
+  font-family: Arial;
+}
+
+h2 {
+  font-weight: bold;
+  color: white;
+}
+
+.login_bar {
+  border-bottom-color: White;
+  border-bottom-height: 1px;
+  background-color: black;
+  height: 100px;
+  font-weight: bold;
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+.login_bar ul {
+  list-style-type: none;
+  text-align: right;
+  background-color: green;
+}
+
+#login_button {
+  float:right;
+  color: White;
+  background-color: Green;
+}
+
+.nav_bar {
+  position: relative;
+  border-bottom-color: White;
+  border-bottom-height: 1px;
+  background-color: DarkBlue;
+  height: 80px;
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+}
+
+li {
+  color: White;
+  display: inline-block;
+  padding: 8px;
+}
+
+a {
+}
+
+.museo {
+  height: 500px;
+  position: relative;
+  overflow: hidden;
+}
+
+.museo img {
+  max-width: 100%;
+}
+
+.topleft {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+p {
+  padding-left: 40px;
+  padding-right: 40px;
+  color: white;
+  background-color: black;
+  font-size: 0.875em;
+}
+
+.main_text {
+  background-color: Black;
+  position: relative;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.sights {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  background-color: WhiteSmoke;
+}
+
+.sights img {
+  width: 90%;
+}
